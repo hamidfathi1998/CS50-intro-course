@@ -7,7 +7,7 @@ Every exercise in this repository scored 100% on submission.
 ## Table Of Contents
 
 - [Problem Set 1: C](/pset1) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
-  * [hello](/C/pset1/hello)
+  * [hello](/pset1/hello)
   * mario
     + [less](/pset1/mario/less)
     + [more](/pset1/mario/more)
